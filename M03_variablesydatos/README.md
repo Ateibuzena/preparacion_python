@@ -1,6 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-
 ## Principales Objetivos de Aprendizaje para esta Clase
 
 - Conocer el concepto de Variables y Constantes
@@ -10,8 +7,6 @@
 ## Variables
 
 Una variable es un espacio de memoria donde guardamos un dato, ese espacio de memoria a la vez recibe un nombre y esto conforma la estructura de datos más simple que podemos encontrar.
-
-![unaImagenConBoxShadow](../_src/assets/02_imagen01.jpg)
 
 Por otro lado existen ciertas normas a la hora de nombrar variables:
 
