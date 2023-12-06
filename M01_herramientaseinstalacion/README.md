@@ -18,8 +18,6 @@ Para poder escribir código que pueda ser interpretado por un lenguaje de progra
 
 ## Visual Studio Code
 
-![VSC Console](/_src/assets/00-PrimerosPasos/vsc_console.png)
-
 Es un editor desarrollado por Microsoft.
 
 Tiene integrado el control de versiones mediante Git y Github para tener un seguimiento de tus proyectos. Brinda una cantidad de extensiones que facilitan el trabajo de un desarrollador.
@@ -27,8 +25,6 @@ Tiene integrado el control de versiones mediante Git y Github para tener un segu
 Para descargarlo, nos dirigimos al sitio oficial, en la sección Download y descargamos el instalador según nuestro Sistema Operativo:
 
 <https://code.visualstudio.com/download>
-
-![VSC Download](/_src/assets/00-PrimerosPasos/vsc_download.png)
 
 Una vez finalizada la descarga, procedemos a ejecutar el instalador.
 
@@ -54,33 +50,20 @@ Ver estos enlaces:
 
 Ingreso a <https://git-scm.com> y descarga la última versión.
 
-![installGit](/_src/assets/00-PrimerosPasos/instalar_window.png)
+Una vez descargado, se abre el archivo .exe
 
-Una vez descargado, se abre el archivo .exe y van a visualizar la siguiente ventana
-
-![installGit](/_src/assets/00-PrimerosPasos/1.png)
-
-Clickeamos “Next” hasta que llegamos a esta parte:
-
-![installGit](/_src/assets/00-PrimerosPasos/2.png)
+Clickeamos “Next”
 
 En este momento de la instalación, si quieren, pueden elegir el editor de texto que van a usar. (Importante, ténganlo instalado antes de instalar Git)
 
-Seguimos clickeando “Next” y luego “Install”
-
-![installGit](/_src/assets/00-PrimerosPasos/3.png)
+Seguimos clickeando “Next” y luego “Install"
 
 Por último, ¡finalizar! Si seleccionan la opción "Launch Git Bash", una vez que finalizan la instalación se va a abrir la consola
 
-![installGit](/_src/assets/00-PrimerosPasos/4.png)
-
 Otra forma de abrir la consola es haciendo click derecho sobre el escritorio y elegir la opción "Git Bash Here"
-
-![installGit](/_src/assets/00-PrimerosPasos/consola.png)
 
 Una vez instalado Git van a poder visualizar la consola: ingresamos el comando `git --version` para chequear que está instalado. Si ven la consola así, ya están listos para comenzar a trabajar!
 
-![installGit](/_src/assets/00-PrimerosPasos/5.png)
 
 ## GitHub
 
@@ -92,31 +75,21 @@ Es una red para almacenar tus repositorios, sería un repositorio de repositorio
 
 1. Para comenzar nos creamos una cuenta --- > <https://github.com> 🚀
 
-![GitHub-Register](/_src/assets/00-PrimerosPasos/github_register.png)
+2. Una vez registrados, ingresamos con usuario y contraseña
 
-2. Una vez registrados, ingresamos con usuario y contraseña:
-
-![GitHub-Login](/_src/assets/00-PrimerosPasos/github_login.png)
-
-3. Listo! Ahora vemos una página de inicio como la siguiente:
-
-![GitHub-Home](/_src/assets/00-PrimerosPasos/github_home.png)
+3. Listo! Ahora vemos una página de inicio
 
 A la izquierda tenemos un acceso rápido a **mis repositorios**.
 
 En el centro vemos la actividad de los usuarios a quienes seguimos.
 
-En la parte superior derecha, vemos nuestra imagen de perfil. Desde ahí podemos desplegar opciones para gestionar nuestro perfil, repositorios y configuración. Si accedemos a nuestro perfil encontramos algo parecido a esto:
-
-![GitHub-profile](/_src/assets/00-PrimerosPasos/github_profile.png)
+En la parte superior derecha, vemos nuestra imagen de perfil. Desde ahí podemos desplegar opciones para gestionar nuestro perfil, repositorios y configuración.
 
 Podemos poner una foto de perfil, editar el nombre, agregar la ubicación, link y organizaciones a las que pertenecemos. En el centro podemos fijar los repositorios que queremos mostrar para que estén visibles en nuestro perfil.
 
 Más abajo se muestra un diagrama de todas las contribuciones que vamos haciendo a los repositorios.
 
-Si accedemos a la pestaña de arriba que dice `repositorios` veremos una lista de todos ellos. Cuando elegimos un repositorio para ver, nos lleva a una página como esta:
-
-![GitHub-repo](/_src/assets/00-PrimerosPasos/github_repo.png)
+Si accedemos a la pestaña de arriba que dice `repositorios` veremos una lista de todos ellos.
 
 Así se ve un repositorio. Arriba a la izquierda tenemos el `nombre de usuario/nombre del repo`.
 
