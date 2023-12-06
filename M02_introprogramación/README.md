@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 # Introducción a la Programación
 
 ## ¿Qué es la Programación?
@@ -17,8 +15,6 @@ Ahora bien, surgen algunas preguntas:
 * ¿Hay un camino óptimo?
 
 * ¿Cómo puedo medir si un camino es el óptimo con respecto a otros caminos?
-
-![unaImagenConBoxShadow](../_src/assets/01_imagen01.jpg)
 
 Cualquiera de las siguientes, podrían ser una solución:
 * Derecha, Derecha, Arriba, Arriba, Derecha, Derecha, Arriba, Arriba, Arriba, Derecha, Derecha, Arriba
