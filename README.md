@@ -13,6 +13,6 @@ El curso consiste en una serie de videos, material teórico y ejercicios con los
 
 ## **😋 ¿CÓMO AVANZAR EN ESTE PROCESO?**
 
-Para avanzar debes seguir el material teórico junto con los videos de este curso introductorio. Para afianzar tus conocimientos y comenzar a practicar realiza cada una de estas **_Homeworks_**. Esto te facilitará resolver el Henry Challenge.
+Para avanzar debes seguir el material teórico junto con los videos de este curso introductorio. Para afianzar tus conocimientos y comenzar a practicar realiza cada una de estas **_Homeworks_**.
 
 Cualquier duda, nos puedes escribir a ena.ateibuzena@gmail.com
